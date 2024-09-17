@@ -1,4 +1,4 @@
-const cacheName = "SGK-SGK Puzzle-1.0";
+const cacheName = "SGK-SGK Puzzle-1.0.1";
 const contentToCache = [
     "Build/sgk.games.puzzle.loader.js",
     "Build/sgk.games.puzzle.framework.js",
