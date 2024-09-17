@@ -1,9 +1,9 @@
 const cacheName = "SGK-SGK Puzzle-1.0";
 const contentToCache = [
-    "Build/SGK.Games.Puzzle.loader.js",
-    "Build/SGK.Games.Puzzle.framework.js",
-    "Build/SGK.Games.Puzzle.data",
-    "Build/SGK.Games.Puzzle.wasm",
+    "Build/moorky.github.io.loader.js",
+    "Build/moorky.github.io.framework.js",
+    "Build/moorky.github.io.data",
+    "Build/moorky.github.io.wasm",
     "TemplateData/style.css"
 
 ];
