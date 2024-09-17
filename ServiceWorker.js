@@ -1,9 +1,9 @@
 const cacheName = "SGK-SGK Puzzle-1.0";
 const contentToCache = [
-    "Build/build.loader.js",
-    "Build/build.framework.js",
-    "Build/build.data",
-    "Build/build.wasm",
+    "Build/sgk.games.puzzle.loader.js",
+    "Build/sgk.games.puzzle.framework.js",
+    "Build/sgk.games.puzzle.data",
+    "Build/sgk.games.puzzle.wasm",
     "TemplateData/style.css"
 
 ];
